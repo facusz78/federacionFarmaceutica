@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FederacionformosaApplication<federacionformosa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.arielc.osyf.federacionformosa.FederacionformosaApplication",
+            "projectName": "federacionformosa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
